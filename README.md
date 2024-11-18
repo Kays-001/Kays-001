@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Idowu Kehinde Temitope 
+- 👀 I’m interested in Data science and analysis 
+- 🌱 I’m currently learning basic data analysis tools and how it can be applied in real life cases
+- 💞️ I’m looking to learn from great like-minded professionals, seek for mentorship, effective collaborative teamwork and more 
